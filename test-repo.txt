@@ -1,4 +1,2 @@
 This is my test-repo text file
-changes on master branch
-Modified in branch1
-master branch in progress
+already more changes in branch2
